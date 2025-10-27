@@ -11,4 +11,4 @@ I'll be using the GTSRB - German Traffic Sign Recognition Benchmark Data Set wit
 
 # Documentations / Tutorials
 - [Openvc Documentation](https://pypi.org/project/opencv-python/)
-- [Os Documentation](https://pypi.org/project/opencv-python/](https://docs.python.org/3/index.html)
+- [Os Documentation](https://pypi.org/project/opencv-python/](https://docs.python.org/3/index.html))
