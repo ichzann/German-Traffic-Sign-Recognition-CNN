@@ -6,7 +6,7 @@ I'll be using the GTSRB - German Traffic Sign Recognition Benchmark Data Set wit
 
 # AI Implication
 - creating a road map about how to learn and which steps to follow during the project.
-- Since it's my very first project with a Neural Network, I heavily relied on AI during the whole process. I asked the AI to create a tutorial with similar step-by-step instructions, which I followed. Except for step-by-step instructions, I also got help from AI to understand some of the arguments or syntax (especially with the data splitting step).
+- Since it's my very first project with a Neural Network, I heavily relied on AI during the whole process. I asked the AI to create a tutorial with similar step-by-step instructions, which I followed. Except for step-by-step instructions, I also got help from AI to understand some of the arguments or syntax where the documentations were not easy to understand (especially with the data splitting step).
 # Sources
 - [Data Set - Kaggle - German-Traffic-Sign-Recognition ](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
